@@ -14,7 +14,7 @@ import docs_italia_theme
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = []
+extensions = ['docs_italia_theme']
 
 # The suffix of source filenames.
 source_suffix = '.rst'
